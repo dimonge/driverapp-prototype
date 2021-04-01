@@ -1,0 +1,40 @@
+{
+  "WooCommerce": {
+    "url": "https://mokauppa.com",
+    "consumerKey": "ck_26d5d935c152ecd0a6478e7f09920b0e303773a5",
+    "consumerSecret": "cs_d9a2053aa0370b1a2ddff01ac48a4e6808296520"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "layout": "bannerImage",
+      "categoryOrTag": 23,
+      "imageBanner": "https://img.etimg.com/thumb/width-640,height-480,imgsize-927702,resizemode-1,msid-69382133/india-ropes-in-global-institution-to-curb-contamination-in-spice-shipments.jpg",
+      "category": 26
+    },
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "threeColumn",
+      "categoryOrTag": 26,
+      "category": 27
+    }
+    /*{
+      "layout": "bannerSale",
+      "categoryOrTag": 273,
+      "tag": 273,
+      "showDateTime": true,
+      "countdown": true,
+      "background": ["rgba(6, 188, 198, 1)", "rgba(244, 244, 246, 0.9)"]
+    },
+    {
+      "name": "News",
+      "layout": "Blog",
+      "categoryOrTag": 21,
+      "tag": 21
+    }*/
+  ],
+  "MainColor": "#30ad8f"
+}

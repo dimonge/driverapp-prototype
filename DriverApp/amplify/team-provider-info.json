@@ -1,0 +1,27 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-driverapp-dev-23714-authRole",
+            "UnauthRoleArn": "arn:aws:iam::891946334043:role/amplify-driverapp-dev-23714-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::891946334043:role/amplify-driverapp-dev-23714-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-driverapp-dev-23714-deployment",
+            "UnauthRoleName": "amplify-driverapp-dev-23714-unauthRole",
+            "StackName": "amplify-driverapp-dev-23714",
+            "StackId": "arn:aws:cloudformation:eu-west-1:891946334043:stack/amplify-driverapp-dev-23714/c61357d0-cecf-11ea-b290-026bd8de9974",
+            "AmplifyAppId": "d3d08qifuu3xvv"
+        },
+        "categories": {
+            "auth": {
+                "driverappc792e77a": {}
+            },
+            "notifications": {
+                "Pinpoint": {
+                    "Name": "driverAppPinpointResourceName-dev",
+                    "Id": "307cf9845dc24973b2673c742027ecc3",
+                    "Region": "eu-west-1"
+                }
+            }
+        }
+    }
+}

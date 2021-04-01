@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "59953513334",
+    "firebase_url": "https://modeliver-firebase.firebaseio.com",
+    "project_id": "modeliver-firebase",
+    "storage_bucket": "modeliver-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59953513334:android:c3d2c45bc521209883b057",
+        "android_client_info": {
+          "package_name": "com.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59953513334-dk132h98ls81g920ri8hs6bvl5tj8j0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driverapp",
+            "certificate_hash": "bd8a80078deb35510b29f2595c64d5158f40d29a"
+          }
+        },
+        {
+          "client_id": "59953513334-r4g6q9bl1q8pjrgaad54umaau0506ueb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVlNQTm5I9QCBElq-LQdXXiaKdm8ajW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59953513334-r4g6q9bl1q8pjrgaad54umaau0506ueb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

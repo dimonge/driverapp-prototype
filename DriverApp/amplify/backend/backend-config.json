@@ -1,0 +1,40 @@
+{
+    "auth": {
+        "driverappc792e77a": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": []
+        }
+    },
+    "function": {
+        "driverapp8879296a": {
+            "build": true,
+            "providerPlugin": "awscloudformation",
+            "service": "Lambda"
+        },
+        "driverappf8f1cc80": {
+            "build": true,
+            "providerPlugin": "awscloudformation",
+            "service": "Lambda"
+        },
+        "verifyauthchallenge": {
+            "build": true,
+            "providerPlugin": "awscloudformation",
+            "service": "Lambda"
+        }
+    },
+    "analytics": {
+        "driverAppPinpointResourceName": {
+            "service": "Pinpoint",
+            "providerPlugin": "awscloudformation"
+        }
+    },
+    "notifications": {
+        "driverAppPinpointResourceName": {
+            "service": "Pinpoint",
+            "channels": [
+                "SMS"
+            ]
+        }
+    }
+}
