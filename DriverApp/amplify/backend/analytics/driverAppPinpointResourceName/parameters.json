@@ -1,0 +1,21 @@
+{
+    "appName": "driverAppPinpointResourceName",
+    "roleName": "pinpointLambdaRole424ced6e",
+    "cloudformationPolicyName": "cloudformationPolicy424ced6e",
+    "cloudWatchPolicyName": "cloudWatchPolicy424ced6e",
+    "pinpointPolicyName": "pinpointPolicy424ced6e",
+    "authPolicyName": "pinpoint_amplify_424ced6e",
+    "unauthPolicyName": "pinpoint_amplify_424ced6e",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503970005020",
+    "firebase_url": "https://modeliver-production.firebaseio.com",
+    "project_id": "modeliver-production",
+    "storage_bucket": "modeliver-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503970005020:android:57c8156ff232191e019fd9",
+        "android_client_info": {
+          "package_name": "com.modeliver.pekify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503970005020-g49a5ehkcv0cpvjmkenkpdq56vo8jt05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modeliver.pekify",
+            "certificate_hash": "bd8a80078deb35510b29f2595c64d5158f40d29a"
+          }
+        },
+        {
+          "client_id": "503970005020-04dhsipg6tuldkmh29otctju6at6uofp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_0GtgQYZGW4XoqSydTeDikolmzx-Dk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503970005020-04dhsipg6tuldkmh29otctju6at6uofp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
