@@ -144,6 +144,8 @@ Read [e2e setup instructions](./e2e/README.md).
 - [2017 aka Andross](https://github.com/infinitered/ignite-andross)
 - [2016 aka Ignite 1.0](https://github.com/infinitered/ignite-ir-boilerplate-2016)
 
-## ISSUES
+## Discussions
 
 https://github.com/facebook/react-native/issues/30632
+https://developer.okta.com/blog/2018/12/26/react-native-android-play-store
+https://github.com/react-native-mapbox-gl/maps/blob/master/docs/Camera.md
