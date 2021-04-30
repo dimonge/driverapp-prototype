@@ -1,0 +1,64 @@
+{
+  "customerSignatureType": "any_signature",
+  "deletedAt": null,
+  "readyBy": "2020-02-23T20:01:25+00:00",
+  "customerId": {
+    "deletedAt": null,
+    "firstName": "customerFirstName",
+    "lastName": "customerLastName",
+    "longitude": 123,
+    "latitude": -213,
+    "addressZipcode": "123123",
+    "addressCity": "Helsinki",
+    "addressLine1": "1 Test customer address",
+    "email": "customer@test.com",
+    "phone": "12323-23123-123",
+    "events": [],
+    "createdAt": "2019-08-12T18:22:42.405Z",
+    "updatedAt": "2019-08-12T18:22:42.405Z",
+    "id": "5d51ae72723eb47ec167e7f6"
+  },
+  "storeId": {
+    "addressCountry": "Finland",
+    "deletedAt": null,
+    "name": "Testing store",
+    "phone": "123-12323-23213",
+    "addressLine1": "Rantakiventie 11 A 20",
+    "addressCity": "Helsinki",
+    "addressZipcode": "00960",
+    "latitude": 123,
+    "longitude": 323.1,
+    "type": "Grocery",
+    "offersDelivery": true,
+    "offersFetches": false,
+    "id": "5d3b241c062ab01bb05c8f53"
+  },
+  "order": {
+    "status": "completed",
+    "currency": "EUR",
+    "deletedAt": null,
+    "orderNumber": "2ye78z",
+    "customerId": "5d51ae72723eb47ec167e7f6",
+    "orderItems": [
+      {
+        "deletedAt": null,
+        "_id": "5e5042e3a6a6a400043947d6",
+        "name": "Rice 5kg",
+        "price": "5.0",
+        "createdAt": "2020-02-21T20:51:47.467Z",
+        "updatedAt": "2020-02-21T20:51:47.467Z"
+      }
+    ],
+    "storeId": "5d3b241c062ab01bb05c8f53",
+    "createdAt": "2020-02-21T20:51:47.467Z",
+    "updatedAt": "2020-02-23T20:01:25.396Z",
+    "id": "5e5042e3a6a6a400043947d5"
+  },
+  "status": "created",
+  "deliveryType": "delivery",
+  "trackingCode": "MDzzggj256yk9",
+  "estimatedPickupTime": "2020-02-23T20:01:25.512Z",
+  "createdAt": "2020-02-23T20:01:25.514Z",
+  "updatedAt": "2020-02-23T20:01:25.514Z",
+  "id": "5e52da15e409bd0004e74738"
+}

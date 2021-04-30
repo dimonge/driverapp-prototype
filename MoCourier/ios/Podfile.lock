@@ -274,6 +274,8 @@ PODS:
     - React
   - RNScreens (2.13.0):
     - React-Core
+  - RNSecureStorage (1.0.82):
+    - React
   - RNSVG (12.1.1):
     - React
   - RNVectorIcons (8.1.0):
@@ -337,6 +339,7 @@ DEPENDENCIES:
   - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
   - RNKeychain (from `../node_modules/react-native-keychain`)
   - RNScreens (from `../node_modules/react-native-screens`)
+  - RNSecureStorage (from `../node_modules/rn-secure-storage/ios`)
   - RNSVG (from `../node_modules/react-native-svg`)
   - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
   - UMAppLoader (from `../node_modules/unimodules-app-loader/ios`)
@@ -433,6 +436,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-keychain"
   RNScreens:
     :path: "../node_modules/react-native-screens"
+  RNSecureStorage:
+    :path: "../node_modules/rn-secure-storage/ios"
   RNSVG:
     :path: "../node_modules/react-native-svg"
   RNVectorIcons:
@@ -505,6 +510,7 @@ SPEC CHECKSUMS:
   RNGestureHandler: 7a5833d0f788dbd107fbb913e09aa0c1ff333c39
   RNKeychain: b8e0711b959a19c5b057d1e970d3c83d159b6da5
   RNScreens: 13f23e5498fb4aa749d19a5eda7f8792fbb9d01f
+  RNSecureStorage: 8b2b07278d80c48b3a881c56e604ab147372f243
   RNSVG: 551acb6562324b1d52a4e0758f7ca0ec234e278f
   RNVectorIcons: 31cebfcf94e8cf8686eb5303ae0357da64d7a5a4
   UMAppLoader: 5db5dc03176c6238da9c8b3657a370137882a4ad
