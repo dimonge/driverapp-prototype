@@ -23,7 +23,7 @@
     "deletedAt": null,
     "name": "Testing store",
     "phone": "123-12323-23213",
-    "addressLine1": "Rantakiventie 11 A 20",
+    "addressLine1": "Testing address 11 A 20",
     "addressCity": "Helsinki",
     "addressZipcode": "00960",
     "latitude": 123,
