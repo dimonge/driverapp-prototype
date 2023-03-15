@@ -50,12 +50,12 @@ const HistoryScreen = ({}) => {
           <Card.Body>
             <View style={{paddingLeft: 16, paddingBottom: 20}}>
               <Caption>Pickup</Caption>
-              <Subheading>Rantakiventie 20 A 5</Subheading>
+              <Subheading>Test addres</Subheading>
             </View>
             <Divider />
             <View style={{paddingLeft: 16, paddingBottom: 20}}>
               <Caption>Dropoff</Caption>
-              <Subheading>Rantakiventie 20 A 5</Subheading>
+              <Subheading>Tests address</Subheading>
             </View>
           </Card.Body>
         </Card>
